@@ -10,6 +10,10 @@ This is to summarize and practice the book designing circuit boards with eagle
   1. Ball grid array (BGA): Leads are metal balls on the bottom of the device
   1. pad: The location on a board that comes in contact with a component's lead
   1. mil:0.001 inch.
+  1. silk screen: a thin nonconductive layer used to print letters.
+  1. solder mask: a think nonconductive layer used to protect the PCB.
+  1. via: a conductive path between two layers.
+  
   
   
 ## Abbreviations:
