@@ -46,4 +46,10 @@ Note the following names are used in the board editor
   Airwire: An unrouted connection between two pads.
   Trace: A routed connection between two pads.
   
+  # Chapter 4:
+  
+  most of the chapter four is step by step follow to the steps given in the book
+  Important notes
+  1. Net classes: allows you to choose the widths of different nets by values different than the defaults.
+  2. IPC standards, for design PCB.
   
